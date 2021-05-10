@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dba675f-cf26-4b67-8696-f171fe14ea2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rudJjjuQXGyw8MwET1CuKi5VRN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Vinuta/IdeaProjects/AmazonProject/testng.xml">
+    <configuration name="C:/Users/Vinuta/IdeaProjects/AmazonProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazon" />
+      <option name="MAIN_CLASS_NAME" value="com.amazon.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.test_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazon" />
+      <option name="MAIN_CLASS_NAME" value="com.amazon.HomePageTest" />
+      <option name="METHOD_NAME" value="test_001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.test_002" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazon" />
+      <option name="MAIN_CLASS_NAME" value="com.amazon.HomePageTest" />
+      <option name="METHOD_NAME" value="test_002" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchPageTest.test_sp_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazon" />
+      <option name="MAIN_CLASS_NAME" value="com.amazon.SearchPageTest" />
+      <option name="METHOD_NAME" value="test_sp_001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Vinuta/IdeaProjects/AmazonProject/testng.xml" />
+        <item itemvalue="TestNG.SearchPageTest.test_sp_001" />
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.HomePageTest.test_002" />
+        <item itemvalue="TestNG.HomePageTest.test_001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dba675f-cf26-4b67-8696-f171fe14ea2c" name="Default Changelist" comment="" />
+      <created>1619829838558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619829838558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1620152908814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620152908814" />
+    <state width="1865" height="247" key="GridCell.Tab.0.bottom" timestamp="1620198391522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620198391522" />
+    <state width="1865" height="247" key="GridCell.Tab.0.center" timestamp="1620198391506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="247" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620198391506" />
+    <state width="1865" height="247" key="GridCell.Tab.0.left" timestamp="1620198391506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="247" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620198391506" />
+    <state width="1865" height="247" key="GridCell.Tab.0.right" timestamp="1620198391522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="247" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620198391522" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1619833715261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619833715261" />
+  </component>
+</project>
