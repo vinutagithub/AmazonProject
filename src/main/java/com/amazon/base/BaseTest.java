@@ -10,6 +10,11 @@ import org.testng.annotations.*;
 
 import java.util.Set;
 
+/**
+ * Base Test will be extended to the testclasses in src/test/java
+ * it contains initial setup and teardown
+ * 
+ */
 public class BaseTest {
 
     protected WebDriver driver;
@@ -19,7 +24,6 @@ public class BaseTest {
     protected AddToCart addToCart;
     protected static String url;
     protected static Set<Cookie> cookieInstance_1;
-
 
 
 
